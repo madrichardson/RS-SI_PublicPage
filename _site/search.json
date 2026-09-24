@@ -17,7 +17,7 @@
     "text": "POC: Ryan Vandermeulen\nThe DALEC pilot has demonstrated that sustained, autonomous, high-quality radiometric observations are operationally feasible for NOAA Fisheries, and, critically, that these observations can provide the empirical foundation for linking optical properties of the ocean to biologically meaningful lower trophic-level variables. The value of this capability is not in creating another source of in situ observations; it is in using targeted observations to develop and validate relationships that can ultimately be applied to freely available satellite data, enabling lower trophic-level information to be extrapolated across spatial and temporal scales that are impossible to achieve with ship- or platform-based observations alone.\nThe DALECs should therefore remain within the RS SI, where the pilot can transition from demonstrating observational feasibility to developing a clearly defined, operationally relevant NOAA Fisheries application. Based on lessons learned, a strategic refinement of the DALEC project’s objectives would shift the emphasis from fleet-level deployment toward targeted development of a satellite-scalable plankton (phyto + zoo) size-structure model that captures changing dynamics across the lower trophic levels. Systematically incorporating lower trophic-level information into fisheries science and management is a recurring need across NMFS, particularly as we move toward more ecosystem-based approaches to management. Addressing this need will require targeted investment in observations and product development, and continued support through the SI would provide the opportunity to carry the pilot’s lessons into a clearly defined, operationally relevant product. Please see linked PRESENTATION.\nWhile largely semantic, establishing a distinct identity for this SI branch, such as Trophic Structure from Space, would also help articulate the broader capability being developed beyond the DALEC platform itself, which is but one tool contributing to this understanding.",
     "crumbs": [
       "RS SI Projects",
-      "DALECs"
+      "DALEC"
     ]
   },
   {
@@ -65,6 +65,76 @@
     ]
   },
   {
+    "objectID": "content/RSSIProjects.html",
+    "href": "content/RSSIProjects.html",
+    "title": "RS SI Projects",
+    "section": "",
+    "text": "The Remote Sensing Strategic Initiative (RS SI) supports projects that expand the use of satellite observations, environmental data, and emerging technologies across NOAA Fisheries. These projects span the development of new remote sensing products, ecosystem and fisheries applications, data infrastructure, and complementary observing systems.",
+    "crumbs": [
+      "RS SI Projects"
+    ]
+  },
+  {
+    "objectID": "content/RSSIProjects.html#ecocast",
+    "href": "content/RSSIProjects.html#ecocast",
+    "title": "RS SI Projects",
+    "section": "EcoCast+",
+    "text": "EcoCast+\nEcoCast+ is a dynamic ocean management tool that combines near-real-time environmental observations with species distribution models. It provides fisheries managers and fishing fleets with spatial guidance designed to support target catch while reducing interactions with protected and non-target species.",
+    "crumbs": [
+      "RS SI Projects"
+    ]
+  },
+  {
+    "objectID": "content/RSSIProjects.html#erddap",
+    "href": "content/RSSIProjects.html#erddap",
+    "title": "RS SI Projects",
+    "section": "ERDDAP",
+    "text": "ERDDAP\nERDDAP™ provides standardized access to environmental and fisheries datasets through both human-readable interfaces and programmatic services. The RS SI project focuses on strengthening ERDDAP as long-term NOAA infrastructure through cloud migration, expanded software maintenance, technical support, and development of a sustainable operational model.\nLearn more →",
+    "crumbs": [
+      "RS SI Projects"
+    ]
+  },
+  {
+    "objectID": "content/RSSIProjects.html#gaia",
+    "href": "content/RSSIProjects.html#gaia",
+    "title": "RS SI Projects",
+    "section": "GAIA",
+    "text": "GAIA\nGeospatial Artificial Intelligence for Animals (GAIA) explores the use of very-high-resolution satellite imagery and artificial intelligence to detect and study marine animals. The project combines satellite imagery, expert annotation, cloud computing, and machine learning to evaluate how satellite observations can complement traditional aerial and vessel-based surveys.\nLearn more →",
+    "crumbs": [
+      "RS SI Projects"
+    ]
+  },
+  {
+    "objectID": "content/RSSIProjects.html#dalec",
+    "href": "content/RSSIProjects.html#dalec",
+    "title": "RS SI Projects",
+    "section": "DALEC",
+    "text": "DALEC\nThe DALEC project uses autonomous radiometric observations to better connect ocean optical properties with biologically meaningful lower trophic-level variables. The project is working toward satellite-scalable approaches for characterizing plankton size structure, allowing targeted field observations to inform broader spatial and temporal assessments from satellite data.\nLearn more →",
+    "crumbs": [
+      "RS SI Projects"
+    ]
+  },
+  {
+    "objectID": "content/RSSIProjects.html#coastal-chlorophyll",
+    "href": "content/RSSIProjects.html#coastal-chlorophyll",
+    "title": "RS SI Projects",
+    "section": "Coastal Chlorophyll",
+    "text": "Coastal Chlorophyll\nThe Coastal Chlorophyll project is developing improved satellite-based chlorophyll products for coastal waters. The project combines a new high-resolution, multi-sensor ocean color record with an extensive collection of in situ chlorophyll and optical observations to support satellite validation, algorithm development, and long-term water-quality analyses.\nLearn more →",
+    "crumbs": [
+      "RS SI Projects"
+    ]
+  },
+  {
+    "objectID": "content/RSSIProjects.html#gridded-bgc-argo-products",
+    "href": "content/RSSIProjects.html#gridded-bgc-argo-products",
+    "title": "RS SI Projects",
+    "section": "Gridded BGC-Argo Products",
+    "text": "Gridded BGC-Argo Products\nBGC-Argo observations provide subsurface biological, chemical, and physical information that complements surface observations from satellites. Gridded products such as GOBAI can support ecosystem modeling, species distribution modeling, and independent evaluation of ocean and ecosystem models used by NOAA Fisheries.\nLearn more →",
+    "crumbs": [
+      "RS SI Projects"
+    ]
+  },
+  {
     "objectID": "content/GriddedBGC-Argo.html",
     "href": "content/GriddedBGC-Argo.html",
     "title": "Gridded BGC-Argo Products",
@@ -72,7 +142,7 @@
     "text": "POC: Ryan Rykaczewski\nBGC-Argo fills a critical gap that satellites cannot (subsurface biogeochemistry), is complementary to remote sensing. Currently, we don’t see this as needing funding in FY27 as the developments are outpacing our abilities to ingest these data. But we do want to flag that we want it to continue to be part of the conversation, as it is going to be a necessary tool in the future.\nKey points:\n\nSatellites see the surface; fish live in 3D. BGC-Argo gives you subsurface physics and chemistry. Models like MOM6 alleviate that, but those models are loosely tied to observations. GOBAI is more accurate than global model outputs (like GLORYS) in key U.S. fishing areas where bias matters most.\nOur CEFI ecosystem models need independent observational data to assess performance. GOBAI provides gridded biogeochemical data that are more closely tied to observations than typical model-model comparisons.\nThe GOBAI team is providing some concrete examples of the improvement in species distribution modeling using albacore: adding BGC variables improved predictive skill on the distributions by 40–60 percent. Engagement with DisMAP is occurring.\nProducts are accessible via ERDDAP, and scaling naturally as Argo expands. The team is moving toward testing dynamic monthly updates, targeting live implementation after the high-res GOBAI paper is accepted.",
     "crumbs": [
       "RS SI Projects",
-      "Gridded BGC-Argo products"
+      "Gridded BGC-Argo Products"
     ]
   },
   {
