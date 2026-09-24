@@ -20,9 +20,6 @@ website:
     pinned: true
     align: center
     tools: 
-      - icon: globe
-        href: https://oceanservice.noaa.gov/geodesy/remote-sensing/
-        text: "Remote Sensing"
       - icon: github
         href: https://github.com/madrichardson/RS-SI_PublicPage/tree/main
         text: "Source Code"
