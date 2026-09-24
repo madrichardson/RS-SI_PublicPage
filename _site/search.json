@@ -89,7 +89,7 @@
     "href": "content/RSSIProjects.html#erddap",
     "title": "RS SI Projects",
     "section": "ERDDAP",
-    "text": "ERDDAP\nERDDAP™ provides standardized access to environmental and fisheries datasets through both human-readable interfaces and programmatic services. The RS SI project focuses on strengthening ERDDAP as long-term NOAA infrastructure through cloud migration, expanded software maintenance, technical support, and development of a sustainable operational model.\nLearn more →",
+    "text": "ERDDAP\nERDDAP™ provides standardized access to environmental and fisheries datasets through both human-readable interfaces and programmatic services. The RS SI project focuses on strengthening ERDDAP as long-term NOAA infrastructure through cloud migration, expanded software maintenance, technical support, and development of a sustainable operational model.",
     "crumbs": [
       "RS SI Projects"
     ]
@@ -99,7 +99,7 @@
     "href": "content/RSSIProjects.html#gaia",
     "title": "RS SI Projects",
     "section": "GAIA",
-    "text": "GAIA\nGeospatial Artificial Intelligence for Animals (GAIA) explores the use of very-high-resolution satellite imagery and artificial intelligence to detect and study marine animals. The project combines satellite imagery, expert annotation, cloud computing, and machine learning to evaluate how satellite observations can complement traditional aerial and vessel-based surveys.\nLearn more →",
+    "text": "GAIA\nGeospatial Artificial Intelligence for Animals (GAIA) explores the use of very-high-resolution satellite imagery and artificial intelligence to detect and study marine animals. The project combines satellite imagery, expert annotation, cloud computing, and machine learning to evaluate how satellite observations can complement traditional aerial and vessel-based surveys.",
     "crumbs": [
       "RS SI Projects"
     ]
@@ -109,7 +109,7 @@
     "href": "content/RSSIProjects.html#dalec",
     "title": "RS SI Projects",
     "section": "DALEC",
-    "text": "DALEC\nThe DALEC project uses autonomous radiometric observations to better connect ocean optical properties with biologically meaningful lower trophic-level variables. The project is working toward satellite-scalable approaches for characterizing plankton size structure, allowing targeted field observations to inform broader spatial and temporal assessments from satellite data.\nLearn more →",
+    "text": "DALEC\nThe DALEC project uses autonomous radiometric observations to better connect ocean optical properties with biologically meaningful lower trophic-level variables. The project is working toward satellite-scalable approaches for characterizing plankton size structure, allowing targeted field observations to inform broader spatial and temporal assessments from satellite data.",
     "crumbs": [
       "RS SI Projects"
     ]
@@ -119,7 +119,7 @@
     "href": "content/RSSIProjects.html#coastal-chlorophyll",
     "title": "RS SI Projects",
     "section": "Coastal Chlorophyll",
-    "text": "Coastal Chlorophyll\nThe Coastal Chlorophyll project is developing improved satellite-based chlorophyll products for coastal waters. The project combines a new high-resolution, multi-sensor ocean color record with an extensive collection of in situ chlorophyll and optical observations to support satellite validation, algorithm development, and long-term water-quality analyses.\nLearn more →",
+    "text": "Coastal Chlorophyll\nThe Coastal Chlorophyll project is developing improved satellite-based chlorophyll products for coastal waters. The project combines a new high-resolution, multi-sensor ocean color record with an extensive collection of in situ chlorophyll and optical observations to support satellite validation, algorithm development, and long-term water-quality analyses.",
     "crumbs": [
       "RS SI Projects"
     ]
@@ -129,7 +129,7 @@
     "href": "content/RSSIProjects.html#gridded-bgc-argo-products",
     "title": "RS SI Projects",
     "section": "Gridded BGC-Argo Products",
-    "text": "Gridded BGC-Argo Products\nBGC-Argo observations provide subsurface biological, chemical, and physical information that complements surface observations from satellites. Gridded products such as GOBAI can support ecosystem modeling, species distribution modeling, and independent evaluation of ocean and ecosystem models used by NOAA Fisheries.\nLearn more →",
+    "text": "Gridded BGC-Argo Products\nBGC-Argo observations provide subsurface biological, chemical, and physical information that complements surface observations from satellites. Gridded products such as GOBAI can support ecosystem modeling, species distribution modeling, and independent evaluation of ocean and ecosystem models used by NOAA Fisheries.",
     "crumbs": [
       "RS SI Projects"
     ]

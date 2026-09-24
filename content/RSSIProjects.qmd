@@ -4,9 +4,9 @@ title: "RS SI Projects"
 
 The Remote Sensing Strategic Initiative (RS SI) supports projects that expand the use of satellite observations, environmental data, and emerging technologies across NOAA Fisheries. These projects span the development of new remote sensing products, ecosystem and fisheries applications, data infrastructure, and complementary observing systems.
 
-## EcoCast+
+## EcoCast
 
-EcoCast+ is a dynamic ocean management tool that combines near-real-time environmental observations with species distribution models. It provides fisheries managers and fishing fleets with spatial guidance designed to support target catch while reducing interactions with protected and non-target species.
+EcoCast is a dynamic ocean management tool that combines near-real-time environmental observations with species distribution models. It provides fisheries managers and fishing fleets with spatial guidance designed to support target catch while reducing interactions with protected and non-target species.
 
 ## ERDDAP
 
