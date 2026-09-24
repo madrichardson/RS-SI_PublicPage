@@ -1,0 +1,11 @@
+---
+title: "DALEC"
+---
+
+**POC:** [Ryan Vandermeulen](Ryan.Vandermeulen@noaa.gov)
+
+The DALEC pilot has demonstrated that sustained, autonomous, high-quality radiometric observations are operationally feasible for NOAA Fisheries, and, critically, that these observations can provide the empirical foundation for linking optical properties of the ocean to biologically meaningful lower trophic-level variables. The value of this capability is not in creating another source of in situ observations; it is in using targeted observations to develop and validate relationships that can ultimately be applied to freely available satellite data, enabling lower trophic-level information to be extrapolated across spatial and temporal scales that are impossible to achieve with ship- or platform-based observations alone.
+
+The DALECs should therefore remain within the RS SI, where the pilot can transition from demonstrating observational feasibility to developing a clearly defined, operationally relevant NOAA Fisheries application. Based on lessons learned, a strategic refinement of the DALEC project's objectives would shift the emphasis from fleet-level deployment toward targeted development of a **satellite-scalable plankton (phyto + zoo) size-structure model** that captures changing dynamics across the lower trophic levels. Systematically incorporating lower trophic-level information into fisheries science and management is a recurring need across NMFS, particularly as we move toward more ecosystem-based approaches to management. Addressing this need will require targeted investment in observations and product development, and continued support through the SI would provide the opportunity to carry the pilot's lessons into a clearly defined, operationally relevant product. Please see linked PRESENTATION.
+
+While largely semantic, establishing a distinct identity for this SI branch, such as **Trophic Structure from Space**, would also help articulate the broader capability being developed beyond the DALEC platform itself, which is but one tool contributing to this understanding.

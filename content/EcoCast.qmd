@@ -1,0 +1,13 @@
+---
+title: "EcoCast"
+---
+
+**POCs:** [John Quinlan](john.a.quinlan@noaa.gov), [Ryan Rykaczewski](ryan.rykaczewski@noaa.gov), & [Michael Jacox](Michael.Jacox@noaa.gov)
+
+EcoCast+ is an advanced dynamic ocean management tool designed to support sustainable fisheries and protect vulnerable marine life. Building upon the proven success of the original West Coast EcoCast system, EcoCast+ integrates near-real-time oceanographic data—such as sea surface temperature, sea height anomalies, and chlorophyll-a observations—with advanced boosted regression trees to predict species distributions in dynamic marine environments.
+
+The tool provides actionable guidance to commercial fishing fleets and fisheries managers, helping them optimize target species catch while significantly minimizing the risk of bycatch for protected species like sea turtles, marine mammals, and non-target sharks. By replacing static seasonal closures and historical averages with dynamic, data-driven insights, EcoCast+ balances economic efficiency with rigorous conservation compliance in support of the Magnuson-Stevens Act, Marine Mammal Protection Act, and Endangered Species Act.
+
+Originally developed for the West Coast highly migratory species fishery, EcoCast+ is expanding to support additional regions, including the central North Pacific (Hawaii-based longline fisheries), the Gulf of America, and emerging applications across the Northwest, Northeast, and Alaska Fisheries Science Centers. Operating in close partnership with regional fishery management councils and NOAA's National Marine Fisheries Service (NMFS), EcoCast+ leverages cloud-based infrastructure and automated daily-to-bi-weekly map generation to deliver timely decision-support tools. Ultimately, EcoCast+ serves as a scalable, cost-effective solution advancing NOAA's mission of ecosystem-based management and long-term marine conservation.
+
+[**More about EcoCast**](https://coastwatch.pfeg.noaa.gov/ecocast/)

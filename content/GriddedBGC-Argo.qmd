@@ -1,0 +1,17 @@
+---
+title: "Gridded BGC-Argo Products"
+---
+
+**POC:** [Ryan Rykaczewski](ryan.rykaczewski@noaa.gov)
+
+BGC-Argo fills a critical gap that satellites cannot (subsurface biogeochemistry), is complementary to remote sensing.  Currently, we don’t see this as needing funding in FY27 as the developments are outpacing our abilities to ingest these data.  But we do want to flag that we want it to continue to be part of the conversation, as it is going to be a necessary tool in the future.
+
+**Key points:**
+
+1. Satellites see the surface; fish live in 3D. BGC-Argo gives you subsurface physics and chemistry.  Models like MOM6 alleviate that, but those models are loosely tied to observations. GOBAI is more accurate than global model outputs (like GLORYS) in key U.S. fishing areas where bias matters most.
+
+2. Our CEFI ecosystem models need independent observational data to assess performance. GOBAI provides gridded biogeochemical data that are more closely tied to observations than typical model-model comparisons.
+
+3. The GOBAI team is providing some concrete examples of the improvement in species distribution modeling using albacore: adding BGC variables improved predictive skill on the distributions by 40–60 percent.  Engagement with DisMAP is occurring.
+
+4. Products are accessible via ERDDAP, and scaling naturally as Argo expands.  The team is moving toward testing dynamic monthly updates, targeting live implementation after the high-res GOBAI paper is accepted.

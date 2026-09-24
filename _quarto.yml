@@ -1,21 +1,70 @@
 project:
   type: website
 
-website:
-  title: "RS-SI_PublicPage"
-  navbar:
-    left:
+website: 
+  page-navigation: true
+  title: "NOAA quarto simple" 
+  site-url: "https://madrichardson.github.io/RS-SI_PublicPage/" 
+  repo-url: "https://madrichardson.github.io/RS-SI_PublicPage/"
+  repo-actions: [none]
+  favicon: images/favicon.ico
+
+  page-footer:
+    right: "This page is built with [Quarto](https://quarto.org/)."
+    left: "&copy; CC-1.0"
+
+  sidebar:
+    background: "#D9E3E4"
+    logo: "images/RS-SI-logo.png"
+    favicon: images/favicon.ico
+    pinned: true
+    align: center
+    tools: 
+      - icon: globe
+        href: https://oceanservice.noaa.gov/geodesy/remote-sensing/
+        text: "Remote Sensing"
+      - icon: github
+        href: https://github.com/madrichardson/RS-SI_PublicPage/tree/main
+        text: "Source Code"
+
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Welcome
+      - href: content/WhoWeAre.qmd
+        text: Who We Are
+      - section: content/RSSIProjects.qmd
+        contents: 
+          - href: content/EcoCast.qmd
+            text: EcoCast
+          - href: content/ERDDAP.qmd
+            text: ERDDAP
+          - href: content/GAIA.qmd
+            text: GAIA
+          - href: content/DALECs.qmd
+            text: DALECs
+          - href: content/CoastalChl.qmd
+            text: Coastal Chl
+          - href: content/GriddedBGC-Argo.qmd
+            text: Gridded BGC-Argo products
+          - href: content/SEA-Fish.qmd
+            text: SEA Fish
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
-    css: styles.css
+      light: [cosmo, theme.scss] 
+      dark: [cosmo, theme-dark.scss]
+    code-copy: true
+    code-overflow: wrap
     toc: true
+
+
+filters:
+  - include-files.lua
+  - quarto
 
 
 

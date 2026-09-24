@@ -1,0 +1,13 @@
+---
+title: "GAIA"
+---
+
+**PIs:** [Christin Khan](Christin.Khan@noaa.gov) and [Kim Goetz](Kim.Goetz@noaa.gov)
+
+Geospatial Artificial Intelligence for Animals (GAIA) is a NOAA Fisheries initiative advancing the use of very-high-resolution satellite imagery to study marine animals, including whales, seals, and sea turtles. Its cloud platform brings together imagery processing, visualization, and expert annotation to produce quality-controlled datasets for developing and evaluating automated detection methods. Initially developed for North Atlantic right whales in Cape Cod Bay and Cook Inlet Belugas, GAIA is expanding to support projects across all NOAA Fisheries regions, including Southern Resident killer whales, Hawaiian monk seals and sea turtles, Rice’s whales, and mixed species whale aggregations off California.
+
+GAIA’s planned transition focuses on establishing a stable, maintainable, nationally coordinated scientific capability. Priorities include completing cloud and database migration, improving application reliability and usability, documenting reproducible imagery-processing workflows, and expanding expert annotation and validation. Planned data services will give authorized collaborators consistent access to imagery, reviewed labels, and associated metadata to support machine-learning development.
+
+This phased transition will build the technical foundation and scientific evidence needed to determine where satellite observations can reliably complement aerial and vessel-based surveys. Sustained technical expertise, annotation capacity, and infrastructure support will be essential to realizing GAIA’s long-term potential: extending NOAA’s observational reach and informing conservation decisions that reduce threats to marine animals.
+
+[**More about GAIA**](https://www.fisheries.noaa.gov/new-england-mid-atlantic/science-data/geospatial-artificial-intelligence-animals)

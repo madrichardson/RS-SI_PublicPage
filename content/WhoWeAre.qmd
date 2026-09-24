@@ -1,0 +1,18 @@
+---
+title: Meet the Team
+---
+
+We are scientists from [NOAA Fisheries Science Centers](https://www.fisheries.noaa.gov/contact-directory/science-centers) around the country including Northeast, Southeast, Southwest, Northwest, Alaska, and Pacific Islands, NOAA's Office of Science and Technology ([OST](https://www.fisheries.noaa.gov/about/office-science-and-technology)), NOAA's Oceanic and Atmospheric Research ([OAR](https://research.noaa.gov/oar-home/)) and NOAA's Pacific Marine Environmental Laboratory ([PMEL](https://www.pmel.noaa.gov/)).
+
+### Team Members
+
+- Cara Wilson, SWFSC, SI Lead
+- Ryan Rykaczewski, SWFSC, Co-SI Lead
+- Ryan Vandermeulen, OST Rep
+- Kim Goetz, AFSC Rep
+- Christin Khan, NEFSC Rep
+- John Quinlan, NEFSC Rep
+- Kisei Tanaka, PIFSC Rep
+- Stephanie Moore, NWFSC Rep
+- Kim Hyde, NEFSC Rep
+- Kalei Shotwell, AFSC Rep

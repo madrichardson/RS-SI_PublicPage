@@ -1,0 +1,88 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Remote Sensing Strategic Initiative",
+    "section": "",
+    "text": "Overall SI Goal: Improve the accessibility and use of remote sensing data by Fisheries in support of ecosystem-based fisheries management.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "content/DALECs.html",
+    "href": "content/DALECs.html",
+    "title": "DALEC",
+    "section": "",
+    "text": "POC: Ryan Vandermeulen\nThe DALEC pilot has demonstrated that sustained, autonomous, high-quality radiometric observations are operationally feasible for NOAA Fisheries, and, critically, that these observations can provide the empirical foundation for linking optical properties of the ocean to biologically meaningful lower trophic-level variables. The value of this capability is not in creating another source of in situ observations; it is in using targeted observations to develop and validate relationships that can ultimately be applied to freely available satellite data, enabling lower trophic-level information to be extrapolated across spatial and temporal scales that are impossible to achieve with ship- or platform-based observations alone.\nThe DALECs should therefore remain within the RS SI, where the pilot can transition from demonstrating observational feasibility to developing a clearly defined, operationally relevant NOAA Fisheries application. Based on lessons learned, a strategic refinement of the DALEC project’s objectives would shift the emphasis from fleet-level deployment toward targeted development of a satellite-scalable plankton (phyto + zoo) size-structure model that captures changing dynamics across the lower trophic levels. Systematically incorporating lower trophic-level information into fisheries science and management is a recurring need across NMFS, particularly as we move toward more ecosystem-based approaches to management. Addressing this need will require targeted investment in observations and product development, and continued support through the SI would provide the opportunity to carry the pilot’s lessons into a clearly defined, operationally relevant product. Please see linked PRESENTATION.\nWhile largely semantic, establishing a distinct identity for this SI branch, such as Trophic Structure from Space, would also help articulate the broader capability being developed beyond the DALEC platform itself, which is but one tool contributing to this understanding.",
+    "crumbs": [
+      "RS SI Projects",
+      "DALECs"
+    ]
+  },
+  {
+    "objectID": "content/GAIA.html",
+    "href": "content/GAIA.html",
+    "title": "GAIA",
+    "section": "",
+    "text": "PIs: Christin Khan and Kim Goetz\nGeospatial Artificial Intelligence for Animals (GAIA) is a NOAA Fisheries initiative advancing the use of very-high-resolution satellite imagery to study marine animals, including whales, seals, and sea turtles. Its cloud platform brings together imagery processing, visualization, and expert annotation to produce quality-controlled datasets for developing and evaluating automated detection methods. Initially developed for North Atlantic right whales in Cape Cod Bay and Cook Inlet Belugas, GAIA is expanding to support projects across all NOAA Fisheries regions, including Southern Resident killer whales, Hawaiian monk seals and sea turtles, Rice’s whales, and mixed species whale aggregations off California.\nGAIA’s planned transition focuses on establishing a stable, maintainable, nationally coordinated scientific capability. Priorities include completing cloud and database migration, improving application reliability and usability, documenting reproducible imagery-processing workflows, and expanding expert annotation and validation. Planned data services will give authorized collaborators consistent access to imagery, reviewed labels, and associated metadata to support machine-learning development.\nThis phased transition will build the technical foundation and scientific evidence needed to determine where satellite observations can reliably complement aerial and vessel-based surveys. Sustained technical expertise, annotation capacity, and infrastructure support will be essential to realizing GAIA’s long-term potential: extending NOAA’s observational reach and informing conservation decisions that reduce threats to marine animals.\nMore about GAIA",
+    "crumbs": [
+      "RS SI Projects",
+      "GAIA"
+    ]
+  },
+  {
+    "objectID": "content/CoastalChl.html",
+    "href": "content/CoastalChl.html",
+    "title": "Coastal Chlorophyll",
+    "section": "",
+    "text": "POC: Ryan Vandermeulen\nThe SI has established the foundation for a next-generation coastal chlorophyll product. Leveraging the linked NESDIS-PPM project, NASA Goddard has successfully developed the Ocean Color Radiometry Band Shifted (OCRBS) data record specifically for NMFS, a unified, multi-sensor, high-resolution remote sensing reflectance and chlorophyll-a dataset that will provide a consistent multi-satellite time series for water-quality trend analysis and algorithm development. OCRBS will be distributed globally at 1.2 km resolution, which is 16× finer than current operational products used by NMFS. Additionally, there will be near-real-time updates while maintaining a ~3-decade historical record (this is a huge upgrade compared to our currently utilized OC-CCI dataset). The SI has also established a comprehensive North American in situ validation resource through the Coastal North America In Situ Chlorophyll and Optical Dataset, containing &gt;700,000 quality-controlled chlorophyll observations and associated CDOM and remote sensing reflectance measurements where available. The dataset is already being used to evaluate satellite retrievals and develop improved coastal chlorophyll algorithms.\nThe Coastal North America In Situ Chlorophyll and Optical Dataset can be found here.",
+    "crumbs": [
+      "RS SI Projects",
+      "Coastal Chl"
+    ]
+  },
+  {
+    "objectID": "content/EcoCast.html",
+    "href": "content/EcoCast.html",
+    "title": "EcoCast",
+    "section": "",
+    "text": "POCs: John Quinlan, Ryan Rykaczewski, & Michael Jacox\nEcoCast+ is an advanced dynamic ocean management tool designed to support sustainable fisheries and protect vulnerable marine life. Building upon the proven success of the original West Coast EcoCast system, EcoCast+ integrates near-real-time oceanographic data—such as sea surface temperature, sea height anomalies, and chlorophyll-a observations—with advanced boosted regression trees to predict species distributions in dynamic marine environments.\nThe tool provides actionable guidance to commercial fishing fleets and fisheries managers, helping them optimize target species catch while significantly minimizing the risk of bycatch for protected species like sea turtles, marine mammals, and non-target sharks. By replacing static seasonal closures and historical averages with dynamic, data-driven insights, EcoCast+ balances economic efficiency with rigorous conservation compliance in support of the Magnuson-Stevens Act, Marine Mammal Protection Act, and Endangered Species Act.\nOriginally developed for the West Coast highly migratory species fishery, EcoCast+ is expanding to support additional regions, including the central North Pacific (Hawaii-based longline fisheries), the Gulf of America, and emerging applications across the Northwest, Northeast, and Alaska Fisheries Science Centers. Operating in close partnership with regional fishery management councils and NOAA’s National Marine Fisheries Service (NMFS), EcoCast+ leverages cloud-based infrastructure and automated daily-to-bi-weekly map generation to deliver timely decision-support tools. Ultimately, EcoCast+ serves as a scalable, cost-effective solution advancing NOAA’s mission of ecosystem-based management and long-term marine conservation.\nMore about EcoCast",
+    "crumbs": [
+      "RS SI Projects",
+      "EcoCast"
+    ]
+  },
+  {
+    "objectID": "content/ERDDAP.html",
+    "href": "content/ERDDAP.html",
+    "title": "ERDDAP",
+    "section": "",
+    "text": "ERDDAP™ is a robust, free, and open-source data server designed to make complex scientific data easier to find, access, and integrate. Originally developed at the Southwest Fisheries Science Center (SWFSC) in 2007, ERDDAP™ has grown into an essential data distribution backbone utilized across all NOAA line offices and by over 100 organizations worldwide.\nERDDAP™ bridges the gap between humans and machines by offering intuitive web pages for data browsing and visualization, alongside standardized web services for programmatic access via R, Python, MATLAB, and modern AI/ML frameworks using Model Context Protocol (MCP). By standardizing diverse environmental data—including satellite observations, in-situ ocean measurements, fisheries data, and atmospheric models—into a unified interface, ERDDAP™ drastically reduces data-wrangling time and fully supports FAIR (Findable, Accessible, Interoperable, and Reusable) data principles.\nDespite its widespread adoption and significant productivity savings for researchers, ERDDAP™ has historically relied on sporadic funding and part-time developer support, creating single-point-of-failure risks. The objective of this SI project is to develop a strategy to secure permanent enterprise funding and establish a dedicated operational team. Key objectives include expanding core software maintenance, supporting cloud migration to the Google Cloud Platform (GCP) to meet Department of Commerce mandates, and scaling technical and community support.\nSecuring stable operational backing will ensure ERDDAP™ remains a secure, scalable, and continuously updated asset, empowering open science and efficient environmental decision-making globally.\nERDDAP Page\nCloud ERDDAP Set-Up Instructions",
+    "crumbs": [
+      "RS SI Projects",
+      "ERDDAP"
+    ]
+  },
+  {
+    "objectID": "content/GriddedBGC-Argo.html",
+    "href": "content/GriddedBGC-Argo.html",
+    "title": "Gridded BGC-Argo Products",
+    "section": "",
+    "text": "POC: Ryan Rykaczewski\nBGC-Argo fills a critical gap that satellites cannot (subsurface biogeochemistry), is complementary to remote sensing. Currently, we don’t see this as needing funding in FY27 as the developments are outpacing our abilities to ingest these data. But we do want to flag that we want it to continue to be part of the conversation, as it is going to be a necessary tool in the future.\nKey points:\n\nSatellites see the surface; fish live in 3D. BGC-Argo gives you subsurface physics and chemistry. Models like MOM6 alleviate that, but those models are loosely tied to observations. GOBAI is more accurate than global model outputs (like GLORYS) in key U.S. fishing areas where bias matters most.\nOur CEFI ecosystem models need independent observational data to assess performance. GOBAI provides gridded biogeochemical data that are more closely tied to observations than typical model-model comparisons.\nThe GOBAI team is providing some concrete examples of the improvement in species distribution modeling using albacore: adding BGC variables improved predictive skill on the distributions by 40–60 percent. Engagement with DisMAP is occurring.\nProducts are accessible via ERDDAP, and scaling naturally as Argo expands. The team is moving toward testing dynamic monthly updates, targeting live implementation after the high-res GOBAI paper is accepted.",
+    "crumbs": [
+      "RS SI Projects",
+      "Gridded BGC-Argo products"
+    ]
+  },
+  {
+    "objectID": "content/WhoWeAre.html",
+    "href": "content/WhoWeAre.html",
+    "title": "Meet the Team",
+    "section": "",
+    "text": "We are scientists from NOAA Fisheries Science Centers around the country including Northeast, Southeast, Southwest, Northwest, Alaska, and Pacific Islands, NOAA’s Office of Science and Technology (OST), NOAA’s Oceanic and Atmospheric Research (OAR) and NOAA’s Pacific Marine Environmental Laboratory (PMEL).\n\nTeam Members\n\nCara Wilson, SWFSC, SI Lead\nRyan Rykaczewski, SWFSC, Co-SI Lead\nRyan Vandermeulen, OST Rep\nKim Goetz, AFSC Rep\nChristin Khan, NEFSC Rep\nJohn Quinlan, NEFSC Rep\nKisei Tanaka, PIFSC Rep\nStephanie Moore, NWFSC Rep\nKim Hyde, NEFSC Rep\nKalei Shotwell, AFSC Rep",
+    "crumbs": [
+      "Who We Are"
+    ]
+  }
+]

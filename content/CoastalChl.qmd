@@ -1,0 +1,10 @@
+---
+title: "Coastal Chlorophyll"
+---
+
+**POC:** [Ryan Vandermeulen](Ryan.Vandermeulen@noaa.gov) 
+
+The SI has established the foundation for a next-generation coastal chlorophyll product. Leveraging the linked NESDIS-PPM project, NASA Goddard has successfully developed the **Ocean Color Radiometry Band Shifted (OCRBS)** data record specifically for NMFS, a unified, multi-sensor, high-resolution remote sensing reflectance and chlorophyll-a dataset that will provide a consistent multi-satellite time series for water-quality trend analysis and algorithm development. OCRBS will be distributed globally at 1.2 km resolution, which is 16× finer than current operational products used by NMFS. Additionally, there will be near-real-time updates while maintaining a ~3-decade historical record (this is a huge upgrade compared to our currently utilized OC-CCI dataset). The SI has also established a comprehensive North American in situ validation resource through the **Coastal North America In Situ Chlorophyll and Optical Dataset**, containing >700,000 quality-controlled chlorophyll observations and associated CDOM and remote sensing reflectance measurements where available. The dataset is already being used to evaluate satellite retrievals and develop improved coastal chlorophyll algorithms. 
+
+The Coastal North America In Situ Chlorophyll and Optical Dataset can be found [here](doi.org/10.5281/zenodo.20140178). 
+
