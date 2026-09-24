@@ -44,11 +44,11 @@ website:
           - href: content/GAIA.qmd
             text: GAIA
           - href: content/DALECs.qmd
-            text: DALECs
+            text: DALEC
           - href: content/CoastalChl.qmd
             text: Coastal Chl
           - href: content/GriddedBGC-Argo.qmd
-            text: Gridded BGC-Argo products
+            text: Gridded BGC-Argo Products
           - href: content/SEA-Fish.qmd
             text: SEA Fish
 

@@ -1,5 +1,40 @@
 ---
 title: "RS SI Projects"
-format: html
 ---
 
+The Remote Sensing Strategic Initiative (RS SI) supports projects that expand the use of satellite observations, environmental data, and emerging technologies across NOAA Fisheries. These projects span the development of new remote sensing products, ecosystem and fisheries applications, data infrastructure, and complementary observing systems.
+
+## EcoCast+
+
+EcoCast+ is a dynamic ocean management tool that combines near-real-time environmental observations with species distribution models. It provides fisheries managers and fishing fleets with spatial guidance designed to support target catch while reducing interactions with protected and non-target species.
+
+## ERDDAP
+
+ERDDAP™ provides standardized access to environmental and fisheries datasets through both human-readable interfaces and programmatic services. The RS SI project focuses on strengthening ERDDAP as long-term NOAA infrastructure through cloud migration, expanded software maintenance, technical support, and development of a sustainable operational model.
+
+[**Learn more →**](ERDDAP.qmd)
+
+## GAIA
+
+Geospatial Artificial Intelligence for Animals (GAIA) explores the use of very-high-resolution satellite imagery and artificial intelligence to detect and study marine animals. The project combines satellite imagery, expert annotation, cloud computing, and machine learning to evaluate how satellite observations can complement traditional aerial and vessel-based surveys.
+
+[**Learn more →**](GAIA.qmd)
+
+## DALEC
+
+The DALEC project uses autonomous radiometric observations to better connect ocean optical properties with biologically meaningful lower trophic-level variables. The project is working toward satellite-scalable approaches for characterizing plankton size structure, allowing targeted field observations to inform broader spatial and temporal assessments from satellite data.
+
+[**Learn more →**](DALECs.qmd)
+
+## Coastal Chlorophyll
+
+The Coastal Chlorophyll project is developing improved satellite-based chlorophyll products for coastal waters. The project combines a new high-resolution, multi-sensor ocean color record with an extensive collection of in situ chlorophyll and optical observations to support satellite validation, algorithm development, and long-term water-quality analyses.
+
+[**Learn more →**](CoastalChl.qmd)
+
+
+## Gridded BGC-Argo Products
+
+BGC-Argo observations provide subsurface biological, chemical, and physical information that complements surface observations from satellites. Gridded products such as GOBAI can support ecosystem modeling, species distribution modeling, and independent evaluation of ocean and ecosystem models used by NOAA Fisheries.
+
+[**Learn more →**](GriddedBGC-Argo.qmd)
