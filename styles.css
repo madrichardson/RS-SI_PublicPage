@@ -1,1 +1,11 @@
 /* css styles */
+
+.project-text {
+    height: 300px;
+    display: flex;
+    align-items: center;
+}
+
+.project-text h2 {
+    margin-top: 0;
+}
