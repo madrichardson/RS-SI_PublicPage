@@ -43,11 +43,11 @@ website:
           - href: content/CoastalChl.qmd
             text: Coastal Chlorophyll for Fisheries
           - href: content/TSS.qmd
-            text: Trophic Structure from Space
+            text: TSS
           - href: content/GriddedBGC-Argo.qmd
-            text: Gridded GBC-Argo Products 
+            text: GOBAI Products 
           - href: content/SEA-Fish.qmd
-            text: Satellite Ecosystem Assessment for Fisheries
+            text: SEA-Fish
 
 format:
   html:

@@ -4,6 +4,8 @@ title: "ERDDAP"
 
 <img src="../images/ERDDAP-logo.png" width="400" height="250" align=center/>
 
+**PI:** [Cara Wilson](cara.wilson@noaa.gov) 
+
 ERDDAP™ is a robust, free, and open-source data server designed to make complex scientific data easier to find, access, and integrate. Originally developed at the Southwest Fisheries Science Center (SWFSC) in 2007, ERDDAP™ has grown into an essential data distribution backbone utilized across all NOAA line offices and by over 100 organizations worldwide.
 
 ERDDAP™ bridges the gap between humans and machines by offering intuitive web pages for data browsing and visualization, alongside standardized web services for programmatic access via R, Python, MATLAB, and modern AI/ML frameworks using Model Context Protocol (MCP). By standardizing diverse environmental data—including satellite observations, in-situ ocean measurements, fisheries data, and atmospheric models—into a unified interface, ERDDAP™ drastically reduces data-wrangling time and fully supports FAIR (Findable, Accessible, Interoperable, and Reusable) data principles.

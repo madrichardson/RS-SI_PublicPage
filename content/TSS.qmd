@@ -3,7 +3,7 @@ title: "Trophic Structure from Space (TSS)"
 format: html
 ---
 
-![](../images/TSS-logo.png)
+<img src="../images/TSS-logo.png" width="400" height="250" align=center/>
 
 **POC:** [Ryan Vandermeulen](Ryan.Vandermeulen@noaa.gov)
 

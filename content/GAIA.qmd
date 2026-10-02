@@ -2,7 +2,7 @@
 title: "Geospatial Artificial Intelligence for Animals"
 ---
 
-![](../images/GAIA-logo.png)
+<img src="../images/GAIA-logo.png" width="400" height="250" align=center/>
 
 **PIs:** [Christin Khan](Christin.Khan@noaa.gov) and [Kim Goetz](Kim.Goetz@noaa.gov)
 
