@@ -40,14 +40,14 @@ website:
             text: ERDDAP
           - href: content/GAIA.qmd
             text: GAIA
-          - href: content/DALECs.qmd
-            text: DALEC
           - href: content/CoastalChl.qmd
-            text: Coastal Chl
+            text: Coastal Chlorophyll for Fisheries
+          - href: content/TSS.qmd
+            text: Trophic Structure from Space
           - href: content/GriddedBGC-Argo.qmd
-            text: Gridded BGC-Argo Products
+            text: Gridded GBC-Argo Products 
           - href: content/SEA-Fish.qmd
-            text: SEA Fish
+            text: Satellite Ecosystem Assessment for Fisheries
 
 format:
   html:
