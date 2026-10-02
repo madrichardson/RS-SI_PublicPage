@@ -45,7 +45,7 @@ website:
           - href: content/TSS.qmd
             text: TSS
           - href: content/GriddedBGC-Argo.qmd
-            text: GOBAI Products 
+            text: GOBAI
           - href: content/SEA-Fish.qmd
             text: SEA-Fish
 

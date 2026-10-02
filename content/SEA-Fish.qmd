@@ -3,7 +3,7 @@ title: "Satellite Ecosystem Assessment for NOAA Fisheries"
 format: html
 ---
 
-<img src="../images/SEAFish-logo.png" width="400" height="250" align=center/>
+<img src="../images/SEAFish-logo.png" width="150" height="100" align=center/>
 
 **POC:** [Cara Wilson](cara.wilson@noaa.gov) 
 

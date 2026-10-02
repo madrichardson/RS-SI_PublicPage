@@ -2,7 +2,7 @@
 title: "Gridded GBC-Argo Products (GOBAI)"
 ---
 
-<img src="../images/GOBAI-logo.png" width="400" height="250" align=center/>
+<img src="../images/GOBAI-logo.png" width="200" height="250" align=center/>
 
 **POCs:** [Ryan Rykaczewski](ryan.rykaczewski@noaa.gov) & [Andrea Fassbender](andrea.fassbender@noaa.gov)
 
