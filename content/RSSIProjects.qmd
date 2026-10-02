@@ -4,30 +4,30 @@ title: "RS SI Projects"
 
 The Remote Sensing Strategic Initiative (RS SI) supports projects that expand the use of satellite observations, environmental data, and emerging technologies across NOAA Fisheries. These projects span the development of new remote sensing products, ecosystem and fisheries applications, data infrastructure, and complementary observing systems.
 
-## EcoCast
+## [EcoCast](EcoCast.qmd) 
 
 EcoCast is a dynamic ocean management tool that combines near-real-time environmental observations with species distribution models. It provides fisheries managers and fishing fleets with spatial guidance designed to support target catch while reducing interactions with protected and non-target species.
 
-## ERDDAP
+## [ERDDAP](ERDDAP.qmd)
 
 ERDDAP™ provides standardized access to environmental and fisheries datasets through both human-readable interfaces and programmatic services. The RS SI project focuses on strengthening ERDDAP as long-term NOAA infrastructure through cloud migration, expanded software maintenance, technical support, and development of a sustainable operational model.
 
-## Geospatial Artificial Intelligence for Animals (GAIA)
+## [Geospatial Artificial Intelligence for Animals (GAIA)](GAIA.qmd)
 
 Geospatial Artificial Intelligence for Animals (GAIA) explores the use of very-high-resolution satellite imagery and artificial intelligence to detect and study marine animals. The project combines satellite imagery, expert annotation, cloud computing, and machine learning to evaluate how satellite observations can complement traditional aerial and vessel-based surveys.
 
-## Coastal Chlorophyll for Fisheries
+## [Coastal Chlorophyll for Fisheries](CoastalChl.qmd)
 
 The Coastal Chlorophyll project is developing improved satellite-based chlorophyll products for coastal waters. The project combines a new high-resolution, multi-sensor ocean color record with an extensive collection of in situ chlorophyll and optical observations to support satellite validation, algorithm development, and long-term water-quality analyses.
 
-## Trophic Structure from Space (TSS)
+## [Trophic Structure from Space (TSS)](TSS.qmd)
 
 TSS integrates ship-based radiometry, plankton imaging, and satellite observations to characterize lower trophic-level dynamics and connect changes in plankton communities to marine ecosystems and fisheries-relevant processes.
 
-## Gridded BGC-Argo Products
+## [Gridded BGC-Argo Products](GriddedBGC-Argo.qmd)
 
 BGC-Argo observations provide subsurface biological, chemical, and physical information that complements surface observations from satellites. Gridded products such as GOBAI can support ecosystem modeling, species distribution modeling, and independent evaluation of ocean and ecosystem models used by NOAA Fisheries.
 
-## Satellite Ecosystem Assessment for Fisheries (SEA-Fish)
+## [Satellite Ecosystem Assessment for Fisheries (SEA-Fish)](SEA-Fish.qmd)
 
 SEA-Fish will provide an interactive dashboard of curated satellite-based indicators, long-term trends, anomalies, and regional products to support NOAA Fisheries ecosystem assessments and resource management.

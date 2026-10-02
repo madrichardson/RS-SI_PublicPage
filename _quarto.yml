@@ -43,7 +43,7 @@ website:
           - href: content/CoastalChl.qmd
             text: Coastal Chlorophyll for Fisheries
           - href: content/TSS.qmd
-            text: TSS
+            text: Trophic Structure from Space
           - href: content/GriddedBGC-Argo.qmd
             text: GOBAI
           - href: content/SEA-Fish.qmd
