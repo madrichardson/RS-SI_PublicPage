@@ -3,7 +3,7 @@ title: "Remote Sensing Strategic Initiative"
 page-layout: full
 ---
 
-**Overall SI Goal:** Improve the accessibility and use of remote sensing data by Fisheries in support of ecosystem-based fisheries management.
+**Overall SI Goal:** Improve the accessibility and use of remote sensing data by NOAA Fisheries in support of ecosystem-based fisheries management.
 
 :::: {.grid .project-row}
 

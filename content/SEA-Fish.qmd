@@ -3,9 +3,11 @@ title: "Satellite Ecosystem Assessment for NOAA Fisheries"
 format: html
 ---
 
-<img src="../images/SEAFish-logo.png" width="250" height="200" align=center/>
+<img src="../images/SEAFish-logo.png" width="250" height="250" align=center/>
 
 **POC:** [Cara Wilson](cara.wilson@noaa.gov) 
+
+[**See Coastal Chlorophyll for Fisheries**](CoastalChl.qmd)
 
 The Satellite Ecosystem Assessment for NOAA Fisheries (SEA-Fish) project was conceived at the National Ecosystem Assessment Program (NEAP) workshop in May 2026. While satellite data offer vast global coverage and multi-decade time series essential for monitoring oceanic ecosystems, standard satellite products often lack actionable context for local resource managers. Without long-term baselines or climatologies calculated across decades, individual oceanographic measurements—such as sea surface temperature or chlorophyll levels—provide limited insight. Furthermore, critical ecological statistics like phytoplankton bloom timing and duration are difficult for non-specialized users to calculate.
 
