@@ -5,7 +5,7 @@ format: html
 
 <img src="../images/TSS-logo.png" width="300" height="250" align=center/>
 
-**POC:** [Ryan Vandermeulen](Ryan.Vandermeulen@noaa.gov)
+**POC:** [Ryan Vandermeulen](https://www.fisheries.noaa.gov/contact/ryan-vandermeulen)
 
 The Trophic Structure from Space (TSS) project is developing an integrated observing capability to better characterize lower trophic-level dynamics and their role in marine ecosystems. Across NOAA Fisheries, we lack a systematic approach for observing these dynamics, despite their fundamental importance to understanding how energy moves through marine food webs. Plankton form the base of that system, and changes in their abundance, community composition, size structure, and bloom timing can influence how energy is transferred to higher trophic levels and ultimately affect the distribution and productivity of fish.
 

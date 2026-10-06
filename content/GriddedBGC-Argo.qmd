@@ -4,7 +4,7 @@ title: "Gridded GBC-Argo Products (GOBAI)"
 
 <img src="../images/GOBAI-logo.png" width="200" height="250" align=center/>
 
-**POCs:** [Ryan Rykaczewski](ryan.rykaczewski@noaa.gov) & [Andrea Fassbender](andrea.fassbender@noaa.gov)
+**POCs:** [Ryan Rykaczewski](https://www.fisheries.noaa.gov/contact/ryan-rykaczewski-phd) & [Andrea Fassbender](https://www.pmel.noaa.gov/about-us/people/dr-andrea-j-fassbender)
 
 **Project website:** [https://www.pmel.noaa.gov/gobai/](https://www.pmel.noaa.gov/gobai/)
 

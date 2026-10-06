@@ -12,7 +12,7 @@ title: "EcoCast"
 
 :::
 
-**POCs:** [John Quinlan](john.a.quinlan@noaa.gov), [Ryan Rykaczewski](ryan.rykaczewski@noaa.gov), & [Michael Jacox](Michael.Jacox@noaa.gov)
+**POCs:** [John Quinlan](https://www.fisheries.noaa.gov/contact/john-quinlan-phd), [Ryan Rykaczewski](https://www.fisheries.noaa.gov/contact/ryan-rykaczewski-phd), & [Michael Jacox](https://www.fisheries.noaa.gov/contact/michael-jacox-phd)
 
 **Project page:** [https://ecocast-plus.github.io/operationalization/](https://ecocast-plus.github.io/operationalization/)
 

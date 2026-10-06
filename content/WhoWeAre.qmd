@@ -7,18 +7,13 @@ The SI was in formed June 2023 by NOAA Fisheries’ Science Board and includes s
 
 ### Members
 
-- Cara Wilson, SWFSC, SI Lead
-- Ryan Rykaczewski, SWFSC, SI Co-Lead
-- Ryan Vandermeulen, OST
-- Kim Goetz, AFSC
-- Christin Khan, NEFSC
-- Kim Hyde, NEFSC
-- John Quinlan, SEFSC
-- Kisei Tanaka*, PIFSC
-- Stephanie Moore*, NWFSC
-- Kalei Shotwell*, AFSC
-
-### Contact Us
-
-- [Cara Wilson](https://www.fisheries.noaa.gov/contact/cara-wilson-phd)
-- [Ryan Vandermeulen](https://www.fisheries.noaa.gov/contact/ryan-vandermeulen)
+- [Cara Wilson, SWFSC, SI Lead](https://www.fisheries.noaa.gov/contact/cara-wilson-phd)
+- [Ryan Rykaczewski, SWFSC, SI Co-Lead](https://www.fisheries.noaa.gov/contact/ryan-rykaczewski-phd)
+- [Ryan Vandermeulen, OST](https://www.fisheries.noaa.gov/contact/ryan-vandermeulen)
+- [Kim Goetz, AFSC](mailto:Kim.Goetz@noaa.gov)
+- [Christin Khan, NEFSC](https://www.fisheries.noaa.gov/contact/christin-khan-msc)
+- [Kimberly Hyde, NEFSC](https://www.fisheries.noaa.gov/contact/kimberly-hyde-phd)
+- [John Quinlan, SEFSC](https://www.fisheries.noaa.gov/contact/john-quinlan-phd)
+- [Kisei Tanaka*, PIFSC](https://www.fisheries.noaa.gov/contact/kisei-r-tanaka-phd)
+- [Stephanie Moore*, NWFSC](https://www.fisheries.noaa.gov/contact/stephanie-k-moore-phd)
+- [Kalei Shotwell*, AFSC](https://www.fisheries.noaa.gov/contact/kalei-shotwell)

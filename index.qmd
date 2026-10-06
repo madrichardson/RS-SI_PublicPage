@@ -8,7 +8,7 @@ page-layout: full
 :::: {.grid .project-row}
 
 ::: {.g-col-3 .text-center}
-<img src="images/RS-SI-schematic.png" width="250" height="300" align=center/>
+<img src="images/RS-SI-schematic.png" width="300" height="300" align=center/>
 :::
 
 ::: {.g-col-9 .project-text}

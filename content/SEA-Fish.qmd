@@ -3,9 +3,9 @@ title: "Satellite Ecosystem Assessment for NOAA Fisheries"
 format: html
 ---
 
-<img src="../images/SEAFish-logo.png" width="250" height="250" align=center/>
+<img src="../images/SEAFish-logo.png" width="350" height="250" align=center/>
 
-**POC:** [Cara Wilson](cara.wilson@noaa.gov) 
+**POC:** [Cara Wilson](https://www.fisheries.noaa.gov/contact/cara-wilson-phd) 
 
 [**See Coastal Chlorophyll for Fisheries**](CoastalChl.qmd)
 
