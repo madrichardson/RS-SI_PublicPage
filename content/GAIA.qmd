@@ -4,7 +4,7 @@ title: "Geospatial Artificial Intelligence for Animals"
 
 <img src="../images/GAIA-logo.png" width="120" height="50" align=center/>
 
-**PIs:** [Christin Khan](https://www.fisheries.noaa.gov/contact/christin-khan-msc) and [Kim Goetz](mailto:Kim.Goetz@noaa.gov)
+**PIs:** [Christin Khan](https://www.fisheries.noaa.gov/contact/christin-khan-msc) and [Kim Goetz](https://www.researchgate.net/profile/Kimberly-Goetz)
 
 **Project Page:** [GAIA](https://www.fisheries.noaa.gov/new-england-mid-atlantic/science-data/geospatial-artificial-intelligence-animals)
 
